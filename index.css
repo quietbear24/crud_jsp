@@ -1,0 +1,24 @@
+h1{
+
+text-align:center; 
+background-color: #ff7900;
+margin:0px; 
+margin-bottom:1em;
+color:#f0f0f0;
+font-family: serif;
+}
+table{ 
+  margin:auto;
+  margin-top:1em;
+  margin-bottom:1em;
+}
+
+a{
+color:#943;
+}
+.button{
+  margin-top: 1em;
+}
+h6{
+  text-align: center;
+}
